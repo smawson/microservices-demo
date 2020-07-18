@@ -3,11 +3,11 @@
         {
             "id": "OLJCESPC7Z",
             "name": "Vintage Typewriter",
-            "description": "This typewriter looks good in your living room.",
+            "description": "This typewriter looks fantastic in your living room. Paper not included.",
             "picture": "/static/img/products/typewriter.jpg",
             "priceUsd": {
                 "currencyCode": "USD",
-                "units": 67,
+                "units": 119,
                 "nanos": 990000000
             },
             "categories": ["vintage"]
@@ -19,7 +19,7 @@
             "picture": "/static/img/products/camera-lens.jpg",
             "priceUsd": {
                 "currencyCode": "USD",
-                "units": 12,
+                "units": 14,
                 "nanos": 490000000
             },
             "categories": ["photography", "vintage"]
@@ -31,7 +31,7 @@
             "picture": "/static/img/products/barista-kit.jpg",
             "priceUsd": {
                 "currencyCode": "USD",
-                "units": 124
+                "units": 167
             },
             "categories": ["cookware"]
         },
@@ -42,7 +42,7 @@
             "picture": "/static/img/products/terrarium.jpg",
             "priceUsd": {
                 "currencyCode": "USD",
-                "units": 36,
+                "units": 32,
                 "nanos": 450000000
             },
             "categories": ["gardening"]
@@ -54,7 +54,7 @@
             "picture": "/static/img/products/film-camera.jpg",
             "priceUsd": {
                 "currencyCode": "USD",
-                "units": 2245
+                "units": 1245
             },
             "categories": ["photography", "vintage"]
         },
